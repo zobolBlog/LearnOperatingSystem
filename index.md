@@ -6,12 +6,11 @@
    [ 0.1 软件工程学的明珠——OperatingSystem](./Doc/00AuthorForeword/02PearlOfSoftwareEngineering.html)
 
 
-#### 1.总述
- 1.1 [操作系统的第一个功能——虚拟化硬件资源](./Doc/01Summary/0001TheFirstFeatureVirtualizesHardwareResources.html)  
+#### 1.总述  
+* [1.1 操作系统的第一个功能——虚拟化硬件资源](./Doc/01Summary/0001TheFirstFeatureVirtualizesHardwareResources.html)  
 
- 1.2 [操作系统的第二个功能——并发功能](./Doc/01Summary/0002TheSecondFunctionConcurrentFunction.html)  
-
- 1.2.1 是多少都是
+* [1.2操作系统的第二个功能——并发功能](./Doc/01Summary/0002TheSecondFunctionConcurrentFunction.html)  
+	* 1.2.1 是多少都是
 
    [1.2 怎么评价一个计算机网络的好坏？性能指标](./Doc/01Summary/0002TheSecondFunctionConcurrentFunction.html)
 
