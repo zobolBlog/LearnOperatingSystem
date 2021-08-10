@@ -37,7 +37,7 @@
 但是在资金有限的情况下，我们需要仔细考虑，分开处理。
 * 把**CPU经常访问的数据**，放到贵的，速度快的Cache、内存里面。
 * 把不经常访问的数据，放到**便宜的，速度慢，容量大**的内存和硬盘里面
-<p align="center"><img width="600" height="400" src="/LearnOperatingSystem/Photo/05.jpg"></p>
+<p align="center"><img width="600" height="360" src="/LearnOperatingSystem/Photo/05.jpg"></p>
 ```
 关于把数据放到哪种存储器，是操作系统主要关心的，这被称为存储器调度管理方式。
 此外当内存空间不够的时候，操作系统还会使用虚拟内存技术。
