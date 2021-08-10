@@ -1,7 +1,8 @@
+[教学视频](https://www.bilibili.com/video/BV1gX4y1F7mb)
 # 1.1 操作系统的第一个功能——虚拟化硬件资源
 
 
-小z同学：zobol老师，关于虚拟化功能概论，我有一些疑问，请您帮我解答：
+作者zobol:关于操作系统概论-虚拟化，我给出下列问题：
 
 
 
@@ -15,7 +16,7 @@
 
 ### 问1：操作系统一般处于计算机系统的哪一个位置？
 操作系统处于计算机硬件和软件层的交汇处，操作系统本身是一种软件，它负责管理所有在该计算机系统下的硬件资源，并且向上提供抽象接口。
-![4e61fe7e444f590a6a99eaacb3d8df8b.png](en-resource://database/1344:1)
+<p align="center"><img width="400" height="300" src="/LearnOperatingSystem/Photo/01.jpg"></p>
 
 
 * * *
