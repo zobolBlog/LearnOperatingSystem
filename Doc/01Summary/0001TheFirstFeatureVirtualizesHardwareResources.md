@@ -16,7 +16,7 @@
 
 ### 问1：操作系统一般处于计算机系统的哪一个位置？
 操作系统处于计算机硬件和软件层的交汇处，操作系统本身是一种软件，它负责管理所有在该计算机系统下的硬件资源，并且向上提供抽象接口。
-<p align="center"><img width="400" height="300" src="/LearnOperatingSystem/Photo/01.jpg"></p>
+<p align="center"><img width="500" height="300" src="/LearnOperatingSystem/Photo/01.jpg"></p>
 
 
 * * *
