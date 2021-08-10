@@ -14,12 +14,12 @@
 粗略地讲，并发功能就是**同时做多件事情**的能力。
 
 现实中我们遇到的很多问题，都是可以同时计算的，如果我们的计算机操作系统有并发功能那么就可以节省时间，比如**GPU的诞生**。此外很多操作都是有时间限制要求，这就要求我们必须在做一件事情的同时，也要不断地记录运行时间。最常见的就是**计时器功能**。
-![858fbf00a9db56403c24945e69f7c772.png](en-resource://database/1340:1)
+<p align="center"><img width="600" height="200" src="/LearnOperatingSystem/Photo/03.jpg"></p>
 ```
 没有并发功能，很多实时性的任务，计算机系统都将无法完成。
 我们也无法实现一边听歌，一边上网。
 ```
-![76a7c0487a25743e0e37e64f86a08420.png](en-resource://database/1341:1)
+<p align="center"><img width="400" height="150" src="/LearnOperatingSystem/Photo/04.jpg"></p>
 
 * * *
 
