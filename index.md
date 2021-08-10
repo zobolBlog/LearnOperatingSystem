@@ -13,6 +13,8 @@
 	* 1.2.1 是多少都是
 * [1.3 操作系统的第三个功能——存储管理功能](./Doc/01Summary/0003TheThirdFunctionIsStorageManagement.html)  
 
+* [1.4 操作系统的其余功能](./Doc/01Summary/0004.html)  
+
 
    [1.2 怎么评价一个计算机网络的好坏？性能指标](./Doc/01Summary/0002TheSecondFunctionConcurrentFunction.html)
 
